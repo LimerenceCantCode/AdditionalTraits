@@ -1,0 +1,16 @@
+[
+{
+  "modid": "additionaltraits",
+  "name": "AdditionalTraits",
+  "description": "More traits for reskillable",
+  "version": "1",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Limerence"],
+  "credits": "me myself and i",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["required-after:reskillable"]
+}
+]
